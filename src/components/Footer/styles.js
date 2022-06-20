@@ -12,7 +12,7 @@ export const Container = styled.header`
     background: linear-gradient(45deg, rgba(0,0,0,0.2945553221288515) 0%, rgba(0,0,0,0.82) 17%, rgba(0,0,0,.85) 50%, rgba(0,0,0,0.82) 83%, rgba(3,3,3,0.29) 100%);
     padding: .8rem 0 .8rem 0;
     z-index: -1;
-    transform: translateY(-1.5rem);
+    /* transform: translateY(-1.5rem); */
 `;
 
 export const FooterText = styled.h6`
