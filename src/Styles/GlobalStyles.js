@@ -16,7 +16,7 @@ export default createGlobalStyle`
         height: 100vh;
     }
     body {
-        background: black url(${background}) repeat top center;
+        background: transparent;
         background-size:cover;
     }
 `;

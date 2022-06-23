@@ -89,8 +89,8 @@ export const DataFuyuki = styled(CharData)`
 export const CloseModalButton = styled(MdClose)`
   cursor: pointer;
   position: absolute;
-  top: -2.5rem;
-  left: 1.05rem;
+  top: 1.5rem;
+  left: 1.1rem;
   width: clamp(.5 rem, 1.25rem, 2rem);
   height: clamp(.5 rem, 1.25rem, 2rem);
   padding: 0;

@@ -3,7 +3,7 @@ import {CountDownWrapper} from "./styles"
 import Card from "../Card";
 
 export default function CountDown() {
-    const start = new Date(2022, 6, 8);
+    const start = new Date(2022, 7, 21);
     const current = start - Date.now();
     const [seconds, setSeconds] = useState(Math.floor((current/1000))%60);
     const [minutes, setMinutes] = useState(Math.floor((current/(1000*60)))%60);

@@ -9,5 +9,6 @@ export const CountDownWrapper = styled.div`
    /* height:18.75rem; */
    padding: 1rem;
    /* border: 1px solid pink; */
+   background: transparent;
    `
 

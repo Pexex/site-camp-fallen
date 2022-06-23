@@ -7,11 +7,11 @@ import CharButtons from "../CharButtons";
 
 export default function Layout(){
     return(
-        <Container>
-           <Header/>
+        // <Container>
+        //    <Header/>
            <CountDown/>
-           <CharButtons />
-           <Footer/>
-        </Container>
+        //    <CharButtons />
+        //    <Footer/>
+        // </Container>
     );
 }
