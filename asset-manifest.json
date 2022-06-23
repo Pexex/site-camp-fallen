@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/site-camp-fallen/static/js/main.7b80d455.js",
+    "main.js": "/site-camp-fallen/static/js/main.860c70bd.js",
     "static/media/camp-fallen-teaser.mp4": "/site-camp-fallen/static/media/camp-fallen-teaser.d1fbaeb29c60044135ef.mp4",
     "static/media/background.jpg": "/site-camp-fallen/static/media/background.a10942ff4eec78166bde.jpg",
     "static/media/bgModalVal.png": "/site-camp-fallen/static/media/bgModalVal.84fb114cbed39e8d09f6.png",
@@ -12,9 +12,9 @@
     "static/media/doug.png": "/site-camp-fallen/static/media/doug.ba0f2babf400a291434d.png",
     "static/media/A_RED.png": "/site-camp-fallen/static/media/A_RED.956a468e389d23708638.png",
     "index.html": "/site-camp-fallen/index.html",
-    "main.7b80d455.js.map": "/site-camp-fallen/static/js/main.7b80d455.js.map"
+    "main.860c70bd.js.map": "/site-camp-fallen/static/js/main.860c70bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.7b80d455.js"
+    "static/js/main.860c70bd.js"
   ]
 }
